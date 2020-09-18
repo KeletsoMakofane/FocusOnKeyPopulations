@@ -1,0 +1,27 @@
+﻿name,label,category
+condoms,Condoms,HIV Prevention
+lubricants,Lubricants,HIV Prevention
+prep,PrEP,HIV Prevention
+pep,PEP,HIV Prevention
+needle,Needle and syringe,Harm Reduction
+ost,Opioid substitution,Harm Reduction
+naloxone,Naloxone,Harm Reduction
+pit,Provider-initiated testing,HIV testing
+cbt,Community-based testing,HIV testing
+lpt,Lay provider testing,HIV testing
+st,Self testing,HIV testing
+apn,Assisted partner notification,HIV testing
+art,Equitable ART,HIV Treatment
+adherence,Access and adherence ,HIV Treatment
+pmtct,PMTCT,HIV Treatment
+sti,STI screening and treatment,Sexual/Reproductive Health
+anc,Antenatal care,Sexual/Reproductive Health
+lawsb,Review laws - behaviour,Critical Enablers
+lawss,Review laws - services,Critical Enablers
+trainhcw,Train HCW,Critical Enablers
+trainofficers,Train officers,Critical Enablers
+engage,Engage stakeholders,Critical Enablers
+services,Health services,Critical Enablers
+empowerment,Community empowerment,Critical Enablers
+violencep,Violence prevention,Critical Enablers
+violencem,Violence monitoring,Critical Enablers

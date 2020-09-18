@@ -1,0 +1,47 @@
+﻿Column1,Sex workers,Men who have sex with men,Transgender people,People who inject drugs,People in prisons and closed settings,alpha3
+Algeria,1,1,0,1,1,DZA
+Angola,1,1,0,0,1,AGO
+Benin,1,1,0,1,1,BEN
+Botswana,1,0,0,0,0,BWA
+Burkina Faso,1,1,0,1,1,BFA
+Burundi,1,1,0,1,1,BDI
+Cape Verde,1,1,0,1,1,CPV
+Cameroon,1,1,0,1,1,CMR
+Central African Republic,1,1,0,1,1,CAF
+Chad,1,1,0,1,1,TCD
+Comoros,1,0,0,1,1,COM
+Congo,1,1,0,1,1,COG
+Côte d’Ivoire,1,1,0,1,1,CIV
+Democratic Republic of the Congo,1,1,0,1,1,COD
+Eritrea,1,1,0,1,1,ERI
+Ethiopia,1,0,0,0,1,ETH
+Gambia,1,0,0,1,1,GMB
+Ghana,1,1,1,1,1,GHA
+Guinea,1,1,0,1,1,GIN
+Guinea-Bissau,1,1,0,0,1,GNB
+Kenya,1,1,1,1,1,KEN
+Lesotho,1,1,1,1,1,LSO
+Liberia,1,1,0,1,0,LBR
+Madagascar,1,1,0,1,1,MDG
+Malawi,1,1,1,0,1,MWI
+Mali,1,1,0,1,1,MLI
+Mauritania,1,1,0,0,1,MRT
+Mauritius,1,1,1,1,1,MUS
+Mozambique,1,1,0,1,1,MOZ
+Nambia,1,1,0,1,1,NAM
+Niger,1,1,0,1,1,NER
+Nigeria,1,1,1,1,1,NGA
+Rwanda,1,1,0,1,1,RWA
+Sao Tome and Principe,1,1,0,1,1,STP
+Senegal,1,1,1,1,1,SEN
+Seychelles,1,1,0,1,1,SYC
+Sierra Leone,1,1,1,1,1,SLE
+South Africa,1,1,1,1,1,ZAF
+South Sudan,1,1,0,1,0,SSD
+Swaziland,1,1,0,1,1,SWZ
+Togo,1,1,0,1,1,TGO
+Uganda,1,1,0,1,1,UGA
+United Republic of Tanzania,1,1,0,1,1,TZA
+Zambia,1,1,0,1,1,ZMB
+Zimbabwe,1,1,1,0,1,ZWE
+Grand total,45,41,10,38,42,
